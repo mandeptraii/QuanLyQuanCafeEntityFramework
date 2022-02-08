@@ -1,0 +1,54 @@
+C:\Users\huyle\OneDrive\Máy tính\QuanCafe2\QuanCafe2\bin\Debug\QuanCafe2.exe.config
+C:\Users\huyle\OneDrive\Máy tính\QuanCafe2\QuanCafe2\bin\Debug\QuanCafe2.exe
+C:\Users\huyle\OneDrive\Máy tính\QuanCafe2\QuanCafe2\bin\Debug\QuanCafe2.pdb
+C:\Users\huyle\OneDrive\Máy tính\QuanCafe2\QuanCafe2\bin\Debug\EntityFramework.dll
+C:\Users\huyle\OneDrive\Máy tính\QuanCafe2\QuanCafe2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huyle\OneDrive\Máy tính\QuanCafe2\QuanCafe2\bin\Debug\EntityFramework.xml
+C:\Users\huyle\OneDrive\Máy tính\QuanCafe2\QuanCafe2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huyle\OneDrive\Máy tính\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.csproj.AssemblyReference.cache
+C:\Users\huyle\OneDrive\Máy tính\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.Form1.resources
+C:\Users\huyle\OneDrive\Máy tính\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.FQuanLyNhanVien.resources
+C:\Users\huyle\OneDrive\Máy tính\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.Properties.Resources.resources
+C:\Users\huyle\OneDrive\Máy tính\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.csproj.GenerateResource.cache
+C:\Users\huyle\OneDrive\Máy tính\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.csproj.CoreCompileInputs.cache
+C:\Users\huyle\OneDrive\Máy tính\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.csproj.CopyComplete
+C:\Users\huyle\OneDrive\Máy tính\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.exe
+C:\Users\huyle\OneDrive\Máy tính\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.pdb
+C:\Users\huyle\OneDrive\Máy tính\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.FQuanLyDatBan.resources
+C:\Users\huyle\Downloads\QuanCafe2\QuanCafe2\QuanCafe2\bin\Debug\QuanCafe2.exe.config
+C:\Users\huyle\Downloads\QuanCafe2\QuanCafe2\QuanCafe2\bin\Debug\QuanCafe2.exe
+C:\Users\huyle\Downloads\QuanCafe2\QuanCafe2\QuanCafe2\bin\Debug\QuanCafe2.pdb
+C:\Users\huyle\Downloads\QuanCafe2\QuanCafe2\QuanCafe2\bin\Debug\EntityFramework.dll
+C:\Users\huyle\Downloads\QuanCafe2\QuanCafe2\QuanCafe2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huyle\Downloads\QuanCafe2\QuanCafe2\QuanCafe2\bin\Debug\EntityFramework.xml
+C:\Users\huyle\Downloads\QuanCafe2\QuanCafe2\QuanCafe2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huyle\Downloads\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.csprojAssemblyReference.cache
+C:\Users\huyle\Downloads\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.Form1.resources
+C:\Users\huyle\Downloads\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.FQuanLyDatBan.resources
+C:\Users\huyle\Downloads\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.FQuanLyNhanVien.resources
+C:\Users\huyle\Downloads\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.Properties.Resources.resources
+C:\Users\huyle\Downloads\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.csproj.GenerateResource.cache
+C:\Users\huyle\Downloads\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.csproj.CoreCompileInputs.cache
+C:\Users\huyle\Downloads\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.csproj.CopyComplete
+C:\Users\huyle\Downloads\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.exe
+C:\Users\huyle\Downloads\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.pdb
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\bin\Debug\QuanCafe2.exe.config
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\bin\Debug\QuanCafe2.exe
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\bin\Debug\QuanCafe2.pdb
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\bin\Debug\EntityFramework.dll
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\bin\Debug\EntityFramework.SqlServer.dll
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\bin\Debug\EntityFramework.xml
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\bin\Debug\EntityFramework.SqlServer.xml
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.csproj.AssemblyReference.cache
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.Form1.resources
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.FQuanLyDatBan.resources
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.FQuanLyNhanVien.resources
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.Properties.Resources.resources
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.csproj.GenerateResource.cache
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.csproj.CoreCompileInputs.cache
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.csproj.CopyComplete
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.exe
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.pdb
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.FQuanLyBan.resources
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.FQuanLySanPham.resources
+C:\man\QuanCafe2\QuanCafe2\QuanCafe2\obj\Debug\QuanCafe2.FDangNhap.resources
